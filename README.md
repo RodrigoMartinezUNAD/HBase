@@ -1,0 +1,1 @@
+Para la ejecución del código simplemente teniendo Apache HBase montado en la maquina y corriendo ejecutarlo con el comando python3 Trend_Gihbli.py y este ya realizara todo el proceso, teniendo previamente cargado el archivo csv.
